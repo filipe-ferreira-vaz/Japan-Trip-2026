@@ -1,3 +1,7 @@
+---
+title: Osaka
+---
+
 # PLACES TO VISIT - OSAKA
 - **JoJo Ramen Restaurant** (https://maps.app.goo.gl/8fKj9RwMMbxuFp196)
   - Saw an IG of people waiting ~2h in line to have dinner. Better to go early to try to avoid line, but I'm personally fine with skipping this restaurant

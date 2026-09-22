@@ -1,3 +1,7 @@
+---
+title: Osaka
+---
+
 # PLACES TO VISIT - TOKYO
 - **Akihabara** (https://www.japan-guide.com/e/e3003.html)
   - Tech and otaku district

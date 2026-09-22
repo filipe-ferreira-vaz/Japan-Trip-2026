@@ -1,3 +1,7 @@
+---
+title: Kyoto
+---
+
 # PLACES TO VISIT - KYOTO
 - **Nijo Castle (Nijojo)** - (https://www.japan-guide.com/e/e3918.html)
   - Former Kyoto residence of the shogun

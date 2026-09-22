@@ -1,13 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Japan Trip 2026
+tags:
 ---
-# Japan Trip 2026
+#tag
+# Places
+## [[Osaka]]
+## [[Kyoto]]
+## [[Tokyo]]
 
-## Places
-### [[Osaka]]
-### [[Kyoto]]
-### [[Tokyo]]
-
-## Other
-### [[Bureaucratic Stuff]]
+# Other
+## [[Bureaucratic Stuff]]
 
