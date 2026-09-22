@@ -1,6 +1,13 @@
 ---
 title: Welcome to Quartz
 ---
+# Japan Trip 2026
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Places
+### [[Osaka]]
+### [[Kyoto]]
+### [[Tokyo]]
+
+## Other
+### [[Bureaucratic Stuff]]
+
