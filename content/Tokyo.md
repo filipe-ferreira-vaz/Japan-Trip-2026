@@ -2,45 +2,53 @@
 title: Tokyo
 ---
 # PLACES TO VISIT - TOKYO
-- **Akihabara** (https://www.japan-guide.com/e/e3003.html)
+- **Akihabara** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3003.html)
   - Tech and otaku district
-- **Koishikawa Korakuen** (https://www.japan-guide.com/e/e3034_003.html)
+- **Koishikawa Korakuen** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3034_003.html)
   - Landscape garden next to Tokyo Dome
-- **Hama Rikyu** (https://www.japan-guide.com/e/e3025.html)
+- **Hama Rikyu** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3025.html)
   - Landscape garden next to Shiodome
-- **Imperial Palace East Gardens** (https://www.japan-guide.com/e/e3018.html)
+- **Imperial Palace East Gardens** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3018.html)
   - Park on the former grounds of Edo Castle
-- **Tokyo Imperial Palace** (https://www.japan-guide.com/e/e3017.html)
+- **Tokyo Imperial Palace** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3017.html)
   - Main residence of the Imperial Family. 
-- **Asakusa** (https://www.japan-guide.com/e/e3004.html)
+- **Asakusa** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3004.html)
   - District with an atmosphere of old Tokyo
-- **Sensoji Temple** (https://www.japan-guide.com/e/e3001.html)
+- **Sensoji Temple** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3001.html)
   - Large temple in the Asakusa district
-- **Rikugien Garden** (https://www.japan-guide.com/e/e3026.html)
+- **Rikugien Garden** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3026.html)
   - Beautiful Japanese style landscape garden
-- **Shibuya** (https://www.japan-guide.com/e/e3007.html)
+- **Shibuya** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3007.html)
   - Popular district
-- **Shinjuku** (https://www.japan-guide.com/e/e3011.html)
+- **Shinjuku** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3011.html)
   - District around Japan's busiest station
-- **Meiji Shrine** (https://www.japan-guide.com/e/e3002.html)
+- **Meiji Shrine** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3002.html)
   - Dedicated to the deity of Emperor Meiji
-- **Harajuku** (https://www.japan-guide.com/e/e3006.html)
+- **Harajuku** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3006.html)
   - Center of teenage fashion and cosplay culture
-- **Odaiba** (https://www.japan-guide.com/e/e3008.html)
+- **Odaiba** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3008.html)
   - Futuristic architecture on a man made island
 - Maid Cafe
-- **Earthquake Experience Museum** (https://maps.app.goo.gl/jxAdWxdLsJzhnzdg8)
-- **Late-night Arcade** (https://www.instagram.com/reel/DXgXqofmshv/?igsi=MTFza3JpdTd1YTQ1aQ==)
-- Lick Laura's forehead <@588831158645686418>
-- **Small Worlds Miniature Museum** (https://maps.app.goo.gl/hQnMuA8rNJM9rYae9)
-- **JOJO WORLD** (https://maps.app.goo.gl/uqFTHhCJ6LGxmRHL9)
-- **Tower Records** (https://maps.app.goo.gl/WekRkY9CHxZK4RTi8?g_st=ac)
+- **Earthquake Experience Museum** - [Location 📌](https://maps.app.goo.gl/jxAdWxdLsJzhnzdg8) [Info 🌐](#)
+- **Late-night Arcade** - [Location 📌](#) [Info 🌐](https://www.instagram.com/reel/DXgXqofmshv/?igsi=MTFza3JpdTd1YTQ1aQ==)
+- Lick Laura's forehead
+- **Small Worlds Miniature Museum** - [Location 📌](https://maps.app.goo.gl/hQnMuA8rNJM9rYae9) [Info 🌐](#)
+- **JOJO WORLD** - [Location 📌](https://maps.app.goo.gl/uqFTHhCJ6LGxmRHL9) [Info 🌐](#)
+- **Tower Records** - [Location 📌](https://maps.app.goo.gl/WekRkY9CHxZK4RTi8?g_st=ac) [Info 🌐](#)
   - Massive record store
+- **Toyosu Market** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3013_market.html)
+	- Recommended to me. Supposedly a good place to get fresh sushi, but best to go early
+- **Tsukiji Outer Market** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3021.html)
+	- Also recommended to me
 ## AROUND TOKYO
-- **Yokohama** (https://www.japan-guide.com/e/e2156.html)
+- **Yokohama** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e2156.html)
   - Japan's second largest city
 
+- **Unknown** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3075.html)
+
 # RESTAURANTS - TOKYO
+- **SUSHIRO**
+	- Conveyor belt sushi
 
 ## TRADITIONAL - TOKYO
 - **Nigiri-zushi** - just regular nigiri. Originated as a fast-food dish in Tokyo
@@ -54,12 +62,10 @@ title: Tokyo
   - **Dorayaki** - pastry made of sweet pancakes with a layer of red bean paste sandwiched in between
   - **Anmitsu** - dessert typically consisting of agar jelly, a scoop of red bean paste, small mochi balls, and seasonal fruits
 
-https://www.japan-guide.com/e/e3075.html
-
 # LUCKY STAR PLACES
-- **Washinomiya Shrine** (https://maps.app.goo.gl/LVx7kDkj9F6ztyjw7)
-- **Kasukabe Kyoei High School** (https://maps.app.goo.gl/TrbthzuuSwXkekaV9)
-- **Kasukabe Station** (https://maps.app.goo.gl/M6xUNxAowotnA3mr7)
-- **Lucky Star Mural** (https://maps.app.goo.gl/5UjJMupdpttt3Qpb6)
-- **Someya Shoten Store** (https://maps.app.goo.gl/kJ1JDvAkMhtrsTqPA)
-- **Chamber of Commerce** (https://maps.app.goo.gl/ypa6jai3WrmbhbKKA)
+- **Washinomiya Shrine** - [Location 📌](https://maps.app.goo.gl/LVx7kDkj9F6ztyjw7) [Info 🌐](#)
+- **Kasukabe Kyoei High School** - [Location 📌](https://maps.app.goo.gl/TrbthzuuSwXkekaV9) [Info 🌐](#)
+- **Kasukabe Station** - [Location 📌](https://maps.app.goo.gl/M6xUNxAowotnA3mr7) [Info 🌐](#)
+- **Lucky Star Mural** - [Location 📌](https://maps.app.goo.gl/5UjJMupdpttt3Qpb6) [Info 🌐](#)
+- **Someya Shoten Store** - [Location 📌](https://maps.app.goo.gl/kJ1JDvAkMhtrsTqPA) [Info 🌐](#)
+- **Chamber of Commerce** - [Location 📌](https://maps.app.goo.gl/ypa6jai3WrmbhbKKA) [Info 🌐](#)
