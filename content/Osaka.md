@@ -1,13 +1,12 @@
 ---
 title: Osaka
 ---
-
-# PLACES TO VISIT - OSAKA
-- **JoJo Ramen Restaurant** - [Location 📌](https://maps.app.goo.gl/8fKj9RwMMbxuFp196) [Info 🌐](#)
-  - Saw an IG of people waiting ~2h in line to have dinner. Better to go early to try to avoid line, but I'm personally fine with skipping this restaurant
-- **Minami (Namba)** - [Location 📌](https://maps.app.goo.gl/9EDnnShNdqWaddDo6) [Info 🌐](https://www.japan-guide.com/e/e4001.html)
+# PLACES TO VISIT
+- **JoJo Ramen Restaurant** 🍜 — [Location 📌](https://maps.app.goo.gl/8fKj9RwMMbxuFp196) — **€5.5-€11** 
+  - Long lines, better to go early. *I'm fine with skipping this*
+- **Minami (Namba)** 🍜🛍️ — [Location 📌](https://maps.app.goo.gl/9EDnnShNdqWaddDo6) [Info 🌐](https://www.japan-guide.com/e/e4001.html)
   - Southern downtown of Osaka. Abundant dining and shopping choices. Better to visit at night
-- **Osaka Castle (Osakajo)** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4000.html)
+- **Osaka Castle (Osakajo)** — [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4000.html) — **€6.6**
   - ~6.5eur entrance. Lines can be long on busy days, purchase e-ticket in advance to skip
 - **Sumiyoshi Taisha** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4007.html)
   - One of Japan's oldest shrines. Displays unique style of shrine architecture called Sumiyoshi-zukuri
@@ -27,7 +26,9 @@ title: Osaka
 - **Himeji Castle** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3501.html)
   - Japan's best preserved feudal castle. ~1h away from Osaka
 
-# RESTAURANTS - OSAKA
+---
+
+# RESTAURANTS
 - **Maruhana Shinsaibashi** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27151063/)
   - All-you-can-eat buffet featuring beef, pork, chicken, and fresh vegetables [23eur]
 - **Sumibi Yakitori to Hitokuchi Gyoza TORA Tori YA Namba sennichimae ten** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27149612/)
@@ -49,7 +50,7 @@ title: Osaka
   - Ramen [5,5eur]
 - **Yuai Tei** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27079226/)
   - Ramen [5,5-11eur]
-## TRADITIONAL - OSAKA
+## TRADITIONAL
 - **Takoyaki** - grilled octopus
 - **Okonomiyaki** - pancake-like dish
 - **Kushikatsu** - deep fried pieces of food on skewers
@@ -57,3 +58,5 @@ title: Osaka
 - **Teppanyaki** - style of cooking a meal on a metal place in the presence of a customer
 
 - **Unknown** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4022.html)
+
+[^1]: fj
