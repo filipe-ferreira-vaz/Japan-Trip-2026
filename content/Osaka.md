@@ -31,8 +31,7 @@ title: Osaka
 	- Popular market street for seafood, produce and more
 - **Tenma** ⛩️🛍️🎮 — [Location 📌](https://maps.app.goo.gl/CoyuLBETPV8DcqWz5) [Info 🌐](https://www.japan-guide.com/e/e4024.html)
 	- District known for its shrine and shopping arcade
-- [ ] Test if this works
-- ==**Himeji Castle**== 🏯 — [Location 📌](https://maps.app.goo.gl/HopsiSpNJ7RS7Vzj9) [Info 🌐](https://www.japan-guide.com/e/e3501.html)
+- **==Himeji Castle==** 🏯 — [Location 📌](https://maps.app.goo.gl/HopsiSpNJ7RS7Vzj9) [Info 🌐](https://www.japan-guide.com/e/e3501.html)
 	- Japan's best preserved feudal castle
 	- Entrance: **[€14.5]** (Total)
 	- Purchase e-ticket in advance to skip lines
