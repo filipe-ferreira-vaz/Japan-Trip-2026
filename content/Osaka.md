@@ -3,8 +3,9 @@ title: Osaka
 ---
 # PLACES TO VISIT
 - **JoJo Ramen Restaurant** 🍜 — [Location 📌](https://maps.app.goo.gl/8fKj9RwMMbxuFp196)
-	- Prices: **[€5.5-€11]** 
-	- Long lines, better to go early. *I'm fine with skipping this*
+	- Price range: **[€5.5-€11]** 
+	- Long lines, better to go early
+	- *I'm fine with skipping this*
 - **Minami (Namba)** 🍜🛍️ — [Location 📌](https://maps.app.goo.gl/9EDnnShNdqWaddDo6) [Info 🌐](https://www.japan-guide.com/e/e4001.html)
 	- Abundant dining and shopping choices
 	- **Better to visit at night**
@@ -42,8 +43,10 @@ title: Osaka
 
 # RESTAURANTS
 - **Maruhana Shinsaibashi** — [Location 📌](https://maps.app.goo.gl/5nLUg782Z4Cwnk7J6) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27151063/)
-	- Prices: 
-  - All-you-can-eat buffet featuring beef, pork, chicken, and fresh vegetables [23eur]
+	- Price range: **[€16.8-€110.5]**
+	- All-you-can-eat pork shabu-shabu hot pot **[€16.8]**
+	- All-you-can-eat beef and pork shabu-shabu hot pot **[€22.3]**
+	- All-you-can-drink **[€5.6]**
 - **Sumibi Yakitori to Hitokuchi Gyoza TORA Tori YA Namba sennichimae ten** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27149612/)
   - All-you-can-drink [8.5eur]
   - Early bird course all-you-can-drink [20eur]
@@ -63,11 +66,9 @@ title: Osaka
   - Ramen [5,5eur]
 - **Yuai Tei** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27079226/)
   - Ramen [5,5-11eur]
-## TRADITIONAL
-- **Takoyaki** - grilled octopus
-- **Okonomiyaki** - pancake-like dish
-- **Kushikatsu** - deep fried pieces of food on skewers
-- **Kitsune Udon** - hot udon soup with deep fried tofu
-- **Teppanyaki** - style of cooking a meal on a metal place in the presence of a customer
-
-- **Unknown** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4022.html)
+# TRADITIONAL FOOD [Info 🌐](https://www.japan-guide.com/e/e4022.html)
+- **Takoyaki** — grilled octopus
+- **Okonomiyaki** — pancake-like dish
+- **Kushikatsu** — deep fried pieces of food on skewers
+- **Kitsune Udon** — hot udon soup with deep fried tofu
+- **Teppanyaki** — style of cooking a meal on a metal place in the presence of a customer
