@@ -2,16 +2,16 @@
 title: Osaka
 ---
 # PLACES TO VISIT
-- **JoJo Ramen Restaurant** 🍜 — [Location 📌](https://maps.app.goo.gl/8fKj9RwMMbxuFp196)
-	- **€5.5-€11** 
+- #### **JoJo Ramen Restaurant** 🍜 — [Location 📌](https://maps.app.goo.gl/8fKj9RwMMbxuFp196)
+	- **[€5.5-€11]** 
 	- Long lines, better to go early. *I'm fine with skipping this*
-- **Minami (Namba)** 🍜🛍️ — [Location 📌](https://maps.app.goo.gl/9EDnnShNdqWaddDo6) [Info 🌐](https://www.japan-guide.com/e/e4001.html)
+- #### **Minami (Namba)** 🍜🛍️ — [Location 📌](https://maps.app.goo.gl/9EDnnShNdqWaddDo6) [Info 🌐](https://www.japan-guide.com/e/e4001.html)
 	- Abundant dining and shopping choices
 	- **Better to visit at night**
-- **Osaka Castle (Osakajo)** — [Location 📌](https://maps.app.goo.gl/UDQvFnNUz6ACAM136) [Info 🌐](https://www.japan-guide.com/e/e4000.html)  
-	- **€6.6**
+- #### **Osaka Castle (Osakajo)** — [Location 📌](https://maps.app.goo.gl/UDQvFnNUz6ACAM136) [Info 🌐](https://www.japan-guide.com/e/e4000.html)  
+	- **[€6.6]**
 	- Purchase e-ticket in advance to skip lines
-- **Sumiyoshi Taisha** — [Location 📌](https://maps.app.goo.gl/z8Mx9PRcjzT2BijEA) [Info 🌐](https://www.japan-guide.com/e/e4007.html)
+- #### **Sumiyoshi Taisha** — [Location 📌](https://maps.app.goo.gl/z8Mx9PRcjzT2BijEA) [Info 🌐](https://www.japan-guide.com/e/e4007.html)
 	- One of Japan's oldest shrines
 	- Displays unique style of shrine architecture called Sumiyoshi-zukuri
 - **Shinsekai** — [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4012.html)
