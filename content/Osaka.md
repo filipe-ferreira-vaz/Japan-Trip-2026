@@ -1,40 +1,45 @@
 ---
 title: Osaka
 ---
+# TO-DO:
+- Closing times
+
 # PLACES TO VISIT
-- #### **JoJo Ramen Restaurant** 🍜 — [Location 📌](https://maps.app.goo.gl/8fKj9RwMMbxuFp196)
-	- **[€5.5-€11]** 
+- **JoJo Ramen Restaurant** 🍜 — [Location 📌](https://maps.app.goo.gl/8fKj9RwMMbxuFp196)
+	- Prices: **[€5.5-€11]** 
 	- Long lines, better to go early. *I'm fine with skipping this*
-- #### **Minami (Namba)** 🍜🛍️ — [Location 📌](https://maps.app.goo.gl/9EDnnShNdqWaddDo6) [Info 🌐](https://www.japan-guide.com/e/e4001.html)
+- **Minami (Namba)** 🍜🛍️ — [Location 📌](https://maps.app.goo.gl/9EDnnShNdqWaddDo6) [Info 🌐](https://www.japan-guide.com/e/e4001.html)
 	- Abundant dining and shopping choices
 	- **Better to visit at night**
-- #### **Osaka Castle (Osakajo)** — [Location 📌](https://maps.app.goo.gl/UDQvFnNUz6ACAM136) [Info 🌐](https://www.japan-guide.com/e/e4000.html)  
-	- **[€6.6]**
+- **Osaka Castle (Osakajo)** 🏯 — [Location 📌](https://maps.app.goo.gl/UDQvFnNUz6ACAM136) [Info 🌐](https://www.japan-guide.com/e/e4000.html)  
+	- Entrance: **[€6.6]**
 	- Purchase e-ticket in advance to skip lines
-- #### **Sumiyoshi Taisha** — [Location 📌](https://maps.app.goo.gl/z8Mx9PRcjzT2BijEA) [Info 🌐](https://www.japan-guide.com/e/e4007.html)
+- **Sumiyoshi Taisha** ⛩️ — [Location 📌](https://maps.app.goo.gl/z8Mx9PRcjzT2BijEA) [Info 🌐](https://www.japan-guide.com/e/e4007.html)
 	- One of Japan's oldest shrines
 	- Displays unique style of shrine architecture called Sumiyoshi-zukuri
-- **Shinsekai** — [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4012.html)
+- **Shinsekai** 🍜🛍️ — [Location 📌](https://maps.app.goo.gl/wxatB8zeDxHWB2Wt9) [Info 🌐](https://www.japan-guide.com/e/e4012.html)
 	- "New world" — nostalgia evoking district
 	- **Better to visit at night**
-- **Shitennoji Temple** - [Location 📌](https://maps.app.goo.gl/2PjhfgAKFWjZXbeg9) [Info 🌐](https://www.japan-guide.com/e/e4011.html)
+- **Shitennoji Temple** ⛩️ — [Location 📌](https://maps.app.goo.gl/2PjhfgAKFWjZXbeg9) [Info 🌐](https://www.japan-guide.com/e/e4011.html)
 	- One of the oldest temples in Japan
-- **Kita (Umeda)** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4009.html)
-  - Northern downtown of Osaka. Offers abundance of shopping, dining and entertainment
-- **~~Minoo Park~~** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4019.html)
-  - Forested park with waterfall just outside Osaka
-- **Kuromon Market** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4031.html)
-  - Popular market street for seafood, produce and more
-- **Tenma** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e4024.html)
-  - District known for its shrine and shopping arcade
+- **Kita (Umeda)** 🍜🛍️🎮 — [Location 📌](https://maps.app.goo.gl/xH5MiGWyNhGxvork9) [Info 🌐](https://www.japan-guide.com/e/e4009.html)
+	- Offers abundance of shopping, dining and entertainment
+- **~~Minoo Park~~** 🌳 — [Location 📌](https://maps.app.goo.gl/cdorNUE9j1xVw9BU7) [Info 🌐](https://www.japan-guide.com/e/e4019.html)
+	- Forested park with waterfall just outside Osaka
+- **Kuromon Market** 🍜 — [Location 📌](https://maps.app.goo.gl/WZKEv7DUU3zxDHpr6) [Info 🌐](https://www.japan-guide.com/e/e4031.html)
+	- Popular market street for seafood, produce and more
+- **Tenma** ⛩️🛍️🎮 — [Location 📌](https://maps.app.goo.gl/CoyuLBETPV8DcqWz5) [Info 🌐](https://www.japan-guide.com/e/e4024.html)
+	- District known for its shrine and shopping arcade
 ## AROUND OSAKA
-- **Himeji Castle** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3501.html)
-  - Japan's best preserved feudal castle. ~1h away from Osaka
+- **Himeji Castle** 🏯 — [Location 📌](https://maps.app.goo.gl/HopsiSpNJ7RS7Vzj9) [Info 🌐](https://www.japan-guide.com/e/e3501.html)
+	- Entrance: **[€14.5]**
+	- Japan's best preserved feudal castle
+	- **1h away from Osaka**
 
 ---
 
 # RESTAURANTS
-- **Maruhana Shinsaibashi** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27151063/)
+- **Maruhana Shinsaibashi** — [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27151063/)
   - All-you-can-eat buffet featuring beef, pork, chicken, and fresh vegetables [23eur]
 - **Sumibi Yakitori to Hitokuchi Gyoza TORA Tori YA Namba sennichimae ten** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27149612/)
   - All-you-can-drink [8.5eur]
